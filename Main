@@ -1,5 +1,5 @@
 git init
 git add .
 git commit -m "initial"
-git remote add origin https://github.com/your-username/smart-dashboard.git
+git remote add origin https://github.com/jordaniany/Testing-code/blob/bc05e4d09ddcd410e60c28e97617b18522e7a36b/Main
 git push -u origin main
